@@ -1,0 +1,40 @@
+/*
+Theme Name:   TwentyTwenty Child
+Description:  TwentyTwenty Child Theme
+Template:     twentytwenty
+Version:      1.0.0
+*/
+
+.entry-content h2 {
+margin: 1rem auto 1.5rem;	
+	
+}
+
+.singular .entry-header {
+padding: 0.5rem 0;
+}
+
+.post-inner {
+padding-top: 1rem;
+}
+
+.header-inner {
+padding: 1.15rem 0;	
+	
+}
+
+.sidebar {
+	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+.info-box {
+width:300px;
+background:#E9D9B7;	
+}
+
+.info-text {
+padding:5px 15px 5px 15px;	
+}
+
+
+
