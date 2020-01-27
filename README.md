@@ -7,6 +7,8 @@ https://www.myria.de/dfiles/lw/Ubuntu_Wordpress_Layout.zip
 
 MD5-Checksum: 5350cd765ed8a1dad276c10a6d421c7e
 
+Größe des Downloads: 2,4 GB
+
 Die entpackete OVA-Datei importieren Sie in Virtualbox über "Datei -> Appliance importieren".
 
 **System**
