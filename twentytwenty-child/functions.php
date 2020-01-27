@@ -8,6 +8,7 @@ add_filter( 'body_class','my_body_classes' );
 function my_body_classes( $classes ) {
     if ( is_category() ) {
          $classes[] = 'template-full-width';
+
     } 
     
     if ( is_archive() ) {
