@@ -21,3 +21,5 @@ ip addr
 ```
 
 Benutzername/Passwort für Wordpress (http://[IP-Adresse]/wp-admin) und Phpmyadmin (http://[IP-Adresse]/phpmyadmin) sind ebenfallls lw/linuxwelt.
+
+![Wordpress mit Magazin-Layout selbst gestalten](https://github.com/Myria-de/twentytwenty/raw/master/402_00_Wordpress.png)
