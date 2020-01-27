@@ -11,6 +11,7 @@ Die entpackete OVA-Datei importieren Sie in Virtualbox über "Datei -> Appliance
 
 **System**
 Login: lw
+
 Passwort: linuxwelt
 
 Ermitteln Sie die IP-Adresse nach der Anmeldung mit 
