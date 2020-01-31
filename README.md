@@ -3,7 +3,7 @@ Wordpress Theme TwentyTwenty für ein Magazin-Layout anpassen (Child-Theme).
 
 **Download Virtual-Appliance:**
 
-https://www.myria.de/dfiles/lw/Ubuntu_Wordpress_Layout.zip
+http://www.pcwelt.de/xmZDTr
 
 MD5-Checksum: 5350cd765ed8a1dad276c10a6d421c7e
 
