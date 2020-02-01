@@ -43,3 +43,9 @@ Smart Slider 3 (https://smartslider3.com/)
 WP-Sweep (https://lesterchan.net/portfolio/programming/php/)
 
 ![Wordpress mit Magazin-Layout selbst gestalten](https://github.com/Myria-de/twentytwenty/raw/master/402_00_Wordpress.jpg)
+
+_Startseite mit Produktkategorien_
+
+![Block mit Zusatzinfomationen zu einem Produkt](https://github.com/Myria-de/twentytwenty/raw/master/Product_Page.jpg)
+
+_Block mit Zusatzinfomationen zu einem Produkt_
