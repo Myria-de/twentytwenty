@@ -38,4 +38,4 @@ Smart Slider 3 (https://smartslider3.com/)
 
 WP-Sweep (https://lesterchan.net/portfolio/programming/php/)
 
-![Wordpress mit Magazin-Layout selbst gestalten](https://github.com/Myria-de/twentytwenty/raw/master/402_00_Wordpress.png)
+![Wordpress mit Magazin-Layout selbst gestalten](https://github.com/Myria-de/twentytwenty/raw/master/402_00_Wordpress.jpg)
