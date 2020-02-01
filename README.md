@@ -1,6 +1,10 @@
 # twentytwenty
 Wordpress Theme TwentyTwenty für ein Magazin-Layout anpassen (Child-Theme).
 
+Startseite wird automatisch aus Kategorien gefüllt.
+
+Anhand des Beispiel-Projekts „Software-Depot“ zeigen wir, wie sich die Homepage mit Info-Blöcken füllen lässt, die Wordpress über eine Plugin automatisch aus Kategorien und Schlagwörtern bildet. Pro Software-Produkt gibt es eine eigene Spalte mit Standardinformationen, die aus benutzerdefinierten Feldern stammen. Ein derartiger Seitenaufbau eignet sich für alle Websites, bei denen Info-Kästen ein Standardelement bilden sollen, beispielsweise Produktangebote, Informationen zu Urlaubsorten oder Reisen.
+
 **Download Virtual-Appliance:**
 
 http://www.pcwelt.de/xmZDTr
